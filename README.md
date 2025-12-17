@@ -135,8 +135,12 @@ A: 電腦有時候會有「快取」(Cache)，試著重新整理網頁，或是�
 這個工具是由 **Linkc** 開發的。
 這是我個人的家：<https://gavintux.github.io/yi/>
 
-如果您覺得這個工具對您的學習有幫助，歡迎請我不喝一杯飲料，支持我開發更多好用的工具！
+## 支持與贊助 (Support)
 
-* **台灣使用者 (Taiwan)**: [點此使用綠界贊助 (支援信用卡/ATM)](https://p.ecpay.com.tw/您的綠界連結代碼)
+如果您覺得這個專案對您有幫助，歡迎請我喝杯咖啡，這將是我持續維護的最大動力！
+
+> **說明**：這是一個個人興趣專案。為了保持開發的熱情與初衷，我原則上**不接受**付費要求功能的開發 (Bug Bounty/Feature Request)。
+
+<a href="https://www.buymeacoffee.com/gavintux" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 祝你打造出最酷的知識花園！🌿

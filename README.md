@@ -1,5 +1,7 @@
 # 🌱 MindMap Garden：打造你的雲端思維花園
-Mindomo心智圖個人分享平台
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Pages](https://img.shields.io/badge/部署-GitHub%20Pages-brightgreen)](https://pages.github.com/)
+>Mindomo心智圖個人分享平台
 
 嗨！歡迎來到 **MindMap Garden**。
 這是一個神奇的魔法花園，可以把你畫的「Mindomo 心智圖」變成一株株漂亮的植物，展示給全世界看！
